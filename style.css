@@ -65,6 +65,40 @@ a:hover {
 
 /*BANNER*/
 
+.banner {
+  height: 400px;
+  padding-top: 150px;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/bass/feature.jpg) no-repeat center / cover;
+}
+
+.banner ul {
+  width: 265px;
+  margin: -5px auto;
+}
+
+.banner ul li {
+  display: inline;
+}
+
+.banner ul li a{
+  display: inline-block;
+  font-size: 0;
+}
+
+.banner ul li:nth-child(1) a {
+  width: 141px;
+  height: 42px;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/bass/app-store.png) no-repeat;
+  background-size: cover;
+}
+
+.banner ul li:nth-child(2) a {
+  width: 119px;
+  height: 42px;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/bass/google-play.png) no-repeat;
+  background-size: cover;
+}
+
 /*FOOTER*/
 
 .footer {
