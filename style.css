@@ -9,6 +9,12 @@ body {
   background: black;
 }
 
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+
 /*HEADER*/
 
 /*SUPPORTING*/
