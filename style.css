@@ -4,6 +4,9 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Helvetica Neue", open-sans;
+  box-sizing: border-box;
+  color: white;
+  background: black;
 }
 
 /*HEADER*/
