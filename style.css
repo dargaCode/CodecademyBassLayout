@@ -9,6 +9,12 @@ body {
   background: black;
 }
 
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 .container {
   max-width: 940px;
   margin: 0 auto;
