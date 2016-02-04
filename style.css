@@ -21,6 +21,12 @@ h3,
 h4 {
   color: inherit;
   margin: 0;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 15px;
+  text-transform: uppercase;
 }
 
 p {
@@ -49,5 +55,27 @@ a:hover {
 /*BANNER*/
 
 /*FOOTER*/
+
+.footer {
+  padding: 60px 0;
+}
+
+.footer .column {
+  width: 17%;
+  float: left;
+}
+
+.footer ul li a {
+  font-size: 13px;
+  color: #aaa;
+  display: block;
+  margin-top: 14px;
+}
+
+.footer:after { /*Clearfix*/
+  content: "";
+  clear: both;
+  display: block;
+}
 
 /*MEDIA QUERIES*/
