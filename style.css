@@ -93,7 +93,7 @@ a:hover {
 
 .header p {
   font-size: 20px;
-  width: 600px;
+  max-width: 600px;
 }
 
 /*SUPPORTING*/
