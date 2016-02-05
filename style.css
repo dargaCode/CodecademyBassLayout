@@ -91,6 +91,23 @@ a:hover {
   display: inline;
 }
 
+.header ul li a {
+  font-size: 14px;
+  font-weight: 700;
+  display: inline-block;
+  margin-left: -6px;
+  padding: 12px 28px;
+}
+
+.header ul li:nth-child(2) a {
+  background-color: #FF003D;
+}
+
+.header ul li:nth-child(2) a:hover {
+  text-decoration: none;
+  color: black;
+}
+
 .header p {
   font-size: 20px;
   max-width: 600px;
