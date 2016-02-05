@@ -85,6 +85,7 @@ a:hover {
 
 .header ul {
   float: right;
+  margin-top: 33px;
 }
 
 .header ul li {
