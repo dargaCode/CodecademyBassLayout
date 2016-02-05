@@ -130,6 +130,32 @@ div:nth-child(even).supporting {
   padding-top: 120px;
 }
 
+div:nth-child(2) .container:before,
+div:nth-child(3) .container:before,
+div:nth-child(4) .container:before {
+  width: 450px;
+  margin-top: -30px;
+  margin-left: -50px;
+  margin-right: 50px;
+}
+
+div:nth-child(2) .container:before {
+  float: left;
+  content: url(https://s3.amazonaws.com/codecademy-content/projects/bass/you.svg);
+}
+
+div:nth-child(3) .container:before {
+  float: right;
+  content: url(https://s3.amazonaws.com/codecademy-content/projects/bass/everywhere.svg);
+}
+
+div:nth-child(4) .container:before {
+  float: left;
+  content: url(https://s3.amazonaws.com/codecademy-content/projects/bass/connect.svg);
+  margin-left: -100px;
+  margin-right: 10px;
+}
+
 .supporting p {
   display: inline;
   font-size: 14px;
