@@ -136,7 +136,7 @@ div:nth-child(4) .container:before {
   width: 450px;
   margin-top: -30px;
   margin-left: -50px;
-  margin-right: 50px;
+  margin-right: 70px;
 }
 
 div:nth-child(2) .container:before {
@@ -147,6 +147,9 @@ div:nth-child(2) .container:before {
 div:nth-child(3) .container:before {
   float: right;
   content: url(https://s3.amazonaws.com/codecademy-content/projects/bass/everywhere.svg);
+  margin-left: 20px;
+  margin-right: 0px;
+
 }
 
 div:nth-child(4) .container:before {
