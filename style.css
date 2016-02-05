@@ -124,16 +124,13 @@ a:hover {
 .supporting {
   height: 470px;
   background-color: #161718;
-  padding-top: 100px;
-}
-
-.supporting:nth-child(3) {
-  background-color: black;
+  padding-top: 120px;
 }
 
 .supporting p {
+  display: inline;
   font-size: 14px;
-  max-width: 470px;
+  max-width: 170px;
   line-height: 20px;
 }
 
