@@ -36,6 +36,11 @@ h1 {
   margin-bottom: 10px;
 }
 
+h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
 h3 {
   font-size: 28px;
   text-align: center;
@@ -115,6 +120,21 @@ a:hover {
 }
 
 /*SUPPORTING*/
+
+.supporting {
+  height: 470px;
+  background-color: #161718;
+  padding-top: 100px;
+}
+
+.supporting:nth-child(2) {
+  background-color: black;
+}
+
+.supporting p {
+  font-size: 14px;
+  max-width: 465px;
+}
 
 /*BANNER*/
 
