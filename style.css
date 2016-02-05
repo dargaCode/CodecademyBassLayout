@@ -232,6 +232,11 @@ div:nth-child(4) .container:before {
 
   /*GLOBAL*/
 
+  body {
+    background-color: #111111;
+    color: #DDDDDD;
+  }
+
   /*HEADER*/
 
   /*SUPPORTING*/
@@ -245,6 +250,11 @@ div:nth-child(4) .container:before {
 @media (max-width: 992px) {
 
   /*GLOBAL*/
+
+  body {
+    background-color: #222222;
+    color: #CCCCCC;
+  }
 
   /*HEADER*/
 
@@ -260,6 +270,11 @@ div:nth-child(4) .container:before {
 
   /*GLOBAL*/
 
+  body {
+    background-color: #333333;
+    color: #BBBBBB;
+  }
+
   /*HEADER*/
 
   /*SUPPORTING*/
@@ -273,6 +288,11 @@ div:nth-child(4) .container:before {
 @media (max-width: 500px) {
 
   /*GLOBAL*/
+
+  body {
+    background-color: #444444;
+    color: #999999;
+  }
 
   /*HEADER*/
 
