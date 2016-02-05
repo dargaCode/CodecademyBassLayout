@@ -70,14 +70,14 @@ a:hover {
 .header {
   height: 560px;
   background: url(https://s3.amazonaws.com/codecademy-content/projects/bass/bg.jpg) no-repeat center / cover;
-  padding-top: 50px;
+  padding-top: 30px;
 }
 
 .header .container > a {
   font-size: 0;
   display: block;
   float: left;
-  height: 80px;
+  height: 75px;
   width: 115px;
   background: url(https://s3.amazonaws.com/codecademy-content/projects/bass/logo.svg) no-repeat;
   margin-bottom: 100px;
