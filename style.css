@@ -134,6 +134,7 @@ a:hover {
 .supporting p {
   font-size: 14px;
   max-width: 470px;
+  line-height: 20px;
 }
 
 /*BANNER*/
