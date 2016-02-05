@@ -135,13 +135,13 @@ div:nth-child(3) .container:before,
 div:nth-child(4) .container:before {
   width: 450px;
   margin-top: -30px;
-  margin-left: -50px;
-  margin-right: 70px;
 }
 
 div:nth-child(2) .container:before {
   float: left;
   content: url(https://s3.amazonaws.com/codecademy-content/projects/bass/you.svg);
+  margin-left: -50px;
+  margin-right: 70px;
 }
 
 div:nth-child(3) .container:before {
