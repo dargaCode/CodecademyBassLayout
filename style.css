@@ -121,9 +121,12 @@ a:hover {
 
 /*SUPPORTING*/
 
+div:nth-child(even).supporting {
+  background-color: #161718;
+}
+
 .supporting {
   height: 470px;
-  background-color: #161718;
   padding-top: 120px;
 }
 
