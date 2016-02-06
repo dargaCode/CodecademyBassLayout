@@ -343,6 +343,16 @@ div:nth-child(4) .container:before {
 
   /*BANNER*/
 
+  .banner ul {
+    margin-top: 10px;
+    width: 100%;
+  }
+
+  .banner ul li a {
+    display: block;
+    margin: 5px auto;
+  }
+
   /*FOOTER*/
 
   .footer {
