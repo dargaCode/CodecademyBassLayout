@@ -230,11 +230,6 @@ div:nth-child(4) .container:before {
 
   /*GLOBAL*/
 
-  body {
-    background-color: #111111;
-    color: #DDDDDD;
-  }
-
   /*HEADER*/
 
   /*SUPPORTING*/
@@ -248,11 +243,6 @@ div:nth-child(4) .container:before {
 @media (max-width: 992px) {
 
   /*GLOBAL*/
-
-  body {
-    background-color: #222222;
-    color: #CCCCCC;
-  }
 
   h1 {
     font-size: 55px;
@@ -308,11 +298,6 @@ div:nth-child(4) .container:before {
 
   /*GLOBAL*/
 
-  body {
-    background-color: #333333;
-    color: #BBBBBB;
-  }
-
   h1 {
     font-size: 46px;
   }
@@ -347,11 +332,6 @@ div:nth-child(4) .container:before {
 @media (max-width: 500px) {
 
   /*GLOBAL*/
-
-  body {
-    background-color: #444444;
-    color: #999999;
-  }
 
   h1 {
     font-size: 38px;
