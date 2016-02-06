@@ -294,6 +294,17 @@ div:nth-child(4) .container:before {
 
   /*HEADER*/
 
+  .header .container > a {
+    float: none;
+    margin: 0 auto;
+  }
+
+  .header ul {
+    float: none;
+    width: 231px;
+    margin: 25px auto;
+  }
+
   /*SUPPORTING*/
 
   /*BANNER*/
