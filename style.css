@@ -254,7 +254,16 @@ div:nth-child(4) .container:before {
     color: #CCCCCC;
   }
 
+  h1 {
+    font-size: 55px;
+  }
+
   /*HEADER*/
+
+  .header p {
+    font-size: 18px;
+    max-width: 500px;
+  }
 
   /*SUPPORTING*/
 
@@ -273,7 +282,16 @@ div:nth-child(4) .container:before {
     color: #BBBBBB;
   }
 
+  h1 {
+    font-size: 42px;
+  }
+
   /*HEADER*/
+
+  .header p {
+    font-size: 17px;
+    max-width: 500px;
+  }
 
   /*SUPPORTING*/
 
@@ -292,7 +310,15 @@ div:nth-child(4) .container:before {
     color: #999999;
   }
 
+  h1 {
+    font-size: 38px;
+  }
+
   /*HEADER*/
+
+  .header {
+    text-align: center;
+  }
 
   .header .container > a {
     float: none;
@@ -302,7 +328,7 @@ div:nth-child(4) .container:before {
   .header ul {
     float: none;
     width: 231px;
-    margin: 25px auto;
+    margin: 25px auto 80px;
   }
 
   /*SUPPORTING*/
