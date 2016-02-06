@@ -343,6 +343,10 @@ div:nth-child(4) .container:before {
 
   /*BANNER*/
 
+  .banner {
+    padding-top: 130px;
+  }
+
   .banner ul {
     margin-top: 10px;
     width: 100%;
