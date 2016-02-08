@@ -5,7 +5,7 @@ The fun challenge for this project was trying to figure out how to generate imag
 
 I imagine trying to go this far to separate content and design isn’t that practical for real sites, but it’s very interesting for learning.
 
-I just had a scary/cool moment when the narrow-width version of the page suddenly seemed all messed up, but then I realized I was actually looking at the example page‘s tab by mistake =D
+I just had a scary/cool moment when the narrow-width version of the page suddenly seemed all messed up, but then I realized I was actually looking at <a href="https://s3.amazonaws.com/codecademy-content/projects/bass/index.html">the example page‘s tab</a> by mistake =D
 
 <a href="http://dargacode.github.io/codecademyBassLayout/">Live Webpage</a>
 
